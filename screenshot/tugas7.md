@@ -2,8 +2,8 @@
 
 ## 1.Middleware & Gate Admin Not Active
 
-![Alt text](screenshot/tugas7/admin_active.png)
+![Alt text](tugas7/admin.jpeg)
 
 ## 2.Middleware & Gate Admin Active
 
-![Alt text](screenshot/tugas7/admin_not_active.png)
+![Alt text](tugas7/admin.jpeg)
